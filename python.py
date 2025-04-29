@@ -15,6 +15,8 @@ df.to_csv("C:/Users\GEETANJALI JENA/Downloads/python Dataset 2.csv", index-False
 
 32 print(df.describe())
 
+
+
 33
 
 34 35 sb.set(style="whitegrid")
