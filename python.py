@@ -10,9 +10,6 @@ df.to_csv("C:/Users\GEETANJALI JENA/Downloads/python Dataset 2.csv", index-False
 
 31 print("Basic Statistics:")
 
-
-
-
 32 print(df.describe())
 
 33
