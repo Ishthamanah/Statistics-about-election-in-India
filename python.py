@@ -10,15 +10,6 @@ df.to_csv("C:/Users\GEETANJALI JENA/Downloads/python Dataset 2.csv", index-False
 
 31 print("Basic Statistics:")
 
-
-
-
-32 print(df.describe())
-
-33
-
-34 35 sb.set(style="whitegrid")
-
 36 (a) Histogram - Margin Percentage Distribution
 
 37 plt.figure(figsize-(8,4))
